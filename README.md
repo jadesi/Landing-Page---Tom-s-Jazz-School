@@ -12,7 +12,7 @@ Atividade desenvolvida através de aulas gratuitas disponibilizadas pela Onebitc
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="./assets/preview.png" width="100%">
+  <img alt="imagem do projeto" src="./assets/preview02.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
